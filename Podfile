@@ -16,6 +16,12 @@ pod 'SVProgressHUD'
 pod "TPKeyboardAvoiding"
 pod "MLTransition"
 pod 'CocoaAsyncSocket'
+pod 'Shimmer'
+pod 'FlatUIKit'
+pod 'AsyncDisplayKit'
+pod 'RESideMenu'
+pod 'SWTableViewCell'
+pod 'MWPhotoBrowser'
 end
 
 

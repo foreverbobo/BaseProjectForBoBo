@@ -55,5 +55,16 @@ static const int ddLogLevel = DDLogLevelError;
 #import <Masonry.h>
 #import <CocoaAsyncSocket.h>
 #import "NSObject+Common.h"
+#import <FBShimmeringView.h>        //漂亮的闪光效果
+#import <FBShimmeringLayer.h>       //漂亮的闪光效果
 
+//#import <AsyncDisplayKit/AsyncDisplayKit.h> //能够提高UI的流畅性并缩短响应时间, 线程安全，能够把UI的耗时操作放到非主线程执行
+
+#import <FlatUIKit.h>               //扁平化风格
+
+#import <RESideMenu.h>          //QQ的左侧菜单风格
+
+#import <SWTableViewCell.h>     //Cell滑动，出现多个功能按钮
+
+#import <MWPhotoBrowser.h>      //图片浏览器
 #endif /* BaseProject_pch */
