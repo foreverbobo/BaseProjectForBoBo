@@ -40,7 +40,7 @@
 
 #import <MJRefresh.h>
 #import <MJExtension.h>
-
+#import "MBProgressHUD+MJ.h"
 #import <CocoaLumberjack.h>
 
 #ifdef DEBUG
