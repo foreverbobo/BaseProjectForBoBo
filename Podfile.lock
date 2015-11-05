@@ -54,6 +54,7 @@ PODS:
   - FMDB/common (2.5)
   - FMDB/standard (2.5):
     - FMDB/common
+  - iCarousel (1.8.2)
   - Masonry (0.6.3)
   - MBProgressHUD (0.9.1)
   - MJExtension (2.5.16)
@@ -81,6 +82,7 @@ DEPENDENCIES:
   - CocoaLumberjack
   - FlatUIKit
   - FMDB
+  - iCarousel
   - Masonry
   - MBProgressHUD
   - MJExtension
@@ -104,6 +106,7 @@ SPEC CHECKSUMS:
   DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
   FlatUIKit: 1b41f0d4952ce8d970d8479ce79df54a960242c4
   FMDB: 96e8f1bcc1329e269330f99770ad4285d9003e52
+  iCarousel: 67c8a43da5a46795b56aadfc96cd36a16f6149b2
   Masonry: ff105a956abcd19a618b2028b121cb638d7a8e2f
   MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
   MJExtension: b8c1321a77d91bcc007b94d38cbf5383c95ea30e
