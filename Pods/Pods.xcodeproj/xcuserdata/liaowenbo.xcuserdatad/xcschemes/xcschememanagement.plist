@@ -79,6 +79,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>PSCollectionView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-BaseProject.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -127,12 +132,7 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>190B56490A5A6B0B83A6FD4E90762980</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>2B91D7C46D7B8F43957B2B6791926F62</key>
+		<key>2051848EDF2E8B189E6A49E7DF1C28D6</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -142,7 +142,7 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>454E3E052A2C9E1EBCE67A3951809910</key>
+		<key>45FACE55D4FC6EFD3285F0DFA398B1DB</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -162,17 +162,27 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>624F88D0CDCD8471C170AD308D6F3379</key>
+		<key>6E758FE2D1FFC80D8BB653055EF0058E</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>6F3B897B971E03510D79E818F6EC6DE7</key>
+		<key>784C2BF976E16938AA7C9C7A1C8BF675</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7CD61829A6AB0413DAED444CADCE8AA6</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
 		<key>8F74D9EA91F4C43190670066BAC37D44</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>950E593F7F4C9233356F49FA1D8F22C6</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -192,7 +202,7 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>D922ED611B5B7B639738D20543089A31</key>
+		<key>B52B405F0F96C49A8A36852FA3D74C52</key>
 		<dict>
 			<key>primary</key>
 			<true/>

@@ -71,4 +71,12 @@ static const int ddLogLevel = DDLogLevelError;
 
 #import <FMDB.h>   //对sqlite3的封装 想使用  先引入sqlite3的类库
 
+#import <PSCollectionView.h>
+
+//这个键盘弹出不会被遮住的一个视图
+#import <TPKeyboardAvoidingTableView.h>
+#import <TPKeyboardAvoidingScrollView.h>
+#import <TPKeyboardAvoidingCollectionView.h>
+#import <UIScrollView+TPKeyboardAvoidingAdditions.h>
+
 #endif /* BaseProject_pch */
