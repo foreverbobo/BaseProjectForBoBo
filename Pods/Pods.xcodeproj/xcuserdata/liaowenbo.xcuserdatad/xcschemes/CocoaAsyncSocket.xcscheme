@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '29E78BFF79A3CD5A8DA92E69'
+               BlueprintIdentifier = 'CF7D35F706D39755FE5E714F'
                BlueprintName = 'CocoaAsyncSocket'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'libCocoaAsyncSocket.a'>

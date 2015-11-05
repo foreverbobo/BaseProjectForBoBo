@@ -23,6 +23,7 @@ pod 'AsyncDisplayKit'
 pod 'RESideMenu'
 pod 'SWTableViewCell'
 pod 'MWPhotoBrowser'
+pod ‘FMDB’
 end
 
 

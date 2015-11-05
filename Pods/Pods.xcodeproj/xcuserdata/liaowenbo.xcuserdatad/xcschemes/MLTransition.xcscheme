@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '5DAEAFD6E7EE0D8D7EF63B15'
+               BlueprintIdentifier = 'E596EC838B432EA0F67CB1A2'
                BlueprintName = 'MLTransition'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'libMLTransition.a'>

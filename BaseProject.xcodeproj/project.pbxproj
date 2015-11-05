@@ -633,6 +633,7 @@
 			baseConfigurationReference = BB9ED1006A4A5583B3344A0C /* Pods-BaseProject.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ENABLE_BITCODE = NO;
 				GCC_PREFIX_HEADER = BaseProject/Resource/PrefixHeader.pch;
 				INFOPLIST_FILE = BaseProject/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
@@ -647,6 +648,7 @@
 			baseConfigurationReference = 56CFFF7A85B2A0DB8E96FD8E /* Pods-BaseProject.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ENABLE_BITCODE = NO;
 				GCC_PREFIX_HEADER = BaseProject/Resource/PrefixHeader.pch;
 				INFOPLIST_FILE = BaseProject/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
