@@ -73,7 +73,7 @@ static const int ddLogLevel = DDLogLevelError;
 
 #import <PSCollectionView.h>
 #import <iCarousel.h>
-
+#import <WMPageController.h>
 //这个键盘弹出不会被遮住的一个视图
 #import <TPKeyboardAvoidingTableView.h>
 #import <TPKeyboardAvoidingScrollView.h>
